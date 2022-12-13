@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "bios",
+  "info": {
+    "singularName": "bio",
+    "pluralName": "bios",
+    "displayName": "bio",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "date": {
+      "type": "string"
+    },
+    "bioContent": {
+      "type": "string"
+    },
+    "location": {
+      "type": "string"
+    }
+  }
+}
